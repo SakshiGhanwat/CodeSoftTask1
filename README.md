@@ -1,2 +1,2 @@
-# CodeSoftTask1
-I develope this Student Grade Calculator using java
+# CodeSoftTask2
+I develope this Number guessing game using java
